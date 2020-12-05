@@ -4,7 +4,7 @@ This is a compilation of developer interviews in diferent languages
 
 ### Javascript
 
-[x] Javascript 01 - 05/12/2020
+[X] Javascript 01 - 05/12/2020
 
 - Javascript 02 - dd/mm/aaa
 - Javascript 03 - dd/mm/aaa
